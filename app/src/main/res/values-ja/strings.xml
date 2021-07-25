@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="annotated_text">この公園では<annotation text-appearance="TextAppearance.Emphasis">以下のスポーツ</annotation>が楽しめます。\n\n<li><annotation image="sports_basketball"> </annotation>バスケットボール</li>\n<li><annotation image="sports_baseball"> </annotation>野球</li>\n<li><annotation image="sports_handball"> </annotation>ハンドボール</li>\n<li><annotation image="sports_kabaddi"> </annotation>カバディ</li>\n<li><annotation image="sports_tennis"> </annotation>テニス</li></string>
+</resources>

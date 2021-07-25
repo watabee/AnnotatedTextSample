@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">AnnotatedTextSample</string>
+
+    <string name="annotated_text">You can enjoy <annotation text-appearance="TextAppearance.Emphasis">following sports</annotation> in this park.\n\n<li><annotation image="sports_basketball"> </annotation>Basketball</li>\n<li><annotation image="sports_baseball"> </annotation>Baseball</li>\n<li><annotation image="sports_handball"> </annotation>Handball</li>\n<li><annotation image="sports_kabaddi"> </annotation>Kabaddi</li>\n<li><annotation image="sports_tennis"> </annotation>Tennis</li></string>
+</resources>
